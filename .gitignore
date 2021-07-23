@@ -1,0 +1,9 @@
+dataset/jamendo/filelists
+dataset/jamendo/labels
+dataset/jamendo/audio
+
+*_log.txt
+
+.idea
+.DS_Store
+__pycache__
