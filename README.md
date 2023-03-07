@@ -3,7 +3,7 @@ On the Veracity of Local, Model-agnostic Explanations in Audio Classification
 
 This repository accompanies the publication: Verena Praher&ast;, Katharina Prinz&ast;, 
 Arthur Flexer, and Gerhard Widmer, 
-"On the Veracity of Local, Model-agnostic Explanations in Audio Classification: Targeted Investigations with Adversarial Examples". 
+"On the Veracity of Local, Model-agnostic Explanations in Audio Classification: Targeted Investigations with Adversarial Examples". ([paper](https://archives.ismir.net/ismir2021/paper/000066.pdf))
 
 (*) equal contribution.
 
